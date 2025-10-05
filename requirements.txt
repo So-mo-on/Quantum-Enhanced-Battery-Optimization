@@ -4,4 +4,6 @@ matplotlib
 networkx
 cvxpy
 qiskit
+qiskit-aer
+
 
