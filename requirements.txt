@@ -3,7 +3,8 @@ numpy
 matplotlib
 networkx
 cvxpy
-qiskit
-qiskit-aer
+qiskit==0.44.1
+qiskit-aer==0.13.3
+
 
 
