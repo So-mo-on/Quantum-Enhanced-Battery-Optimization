@@ -1,6 +1,6 @@
 streamlit
 numpy
-matplotlib
+matplotlib==3.9.2
 networkx
 cvxpy
 qiskit==0.45.3
